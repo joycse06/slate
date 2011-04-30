@@ -2,3 +2,5 @@ Steps To compile Slate in your computer:
 1. Create a new desktop project in Titanium developer. 
 2. Replace The Resources directory with the Resources directory from this repo.
 3. Go back to Titanium developer Click on Launch App and you are done.
+
+Feel free to play with the code.
